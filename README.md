@@ -95,6 +95,7 @@ Estou sempre a aprender, a construir projectos e a evoluir como programador.
 | 🧾 **POS para Comerciantes** *(colaboração)* | Registo de vendas e controlo de stock | Laravel, Vue, PostgreSQL |
 | 😄 **CornoCheck** | App de entretenimento com análise fictícia a partir de uma foto | React Native, Expo, TypeScript |
 
+---
 
 ## 🗣️ Idiomas
 
