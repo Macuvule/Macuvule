@@ -95,16 +95,6 @@ Estou sempre a aprender, a construir projectos e a evoluir como programador.
 | 🧾 **POS para Comerciantes** *(colaboração)* | Registo de vendas e controlo de stock | Laravel, Vue, PostgreSQL |
 | 😄 **CornoCheck** | App de entretenimento com análise fictícia a partir de uma foto | React Native, Expo, TypeScript |
 
----
-
-## 📊 Estatísticas do GitHub
-
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Macuvule&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Macuvule&layout=compact&theme=tokyonight" />
-</p>
-
----
 
 ## 🗣️ Idiomas
 
